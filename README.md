@@ -16,6 +16,20 @@ pip install -r requirements.txt
 
 requirements.txt comprises of all the required packages for this research.
 
+scikit-learn==1.5.1
+scipy==1.14.1
+seaborn==0.13.2
+Unidecode==1.3.8
+vaderSentiment==3.3.2
+wordcloud==1.9.3
+langdetect==1.0.9
+matplotlib==3.9.2
+nltk==3.9.1
+numpy==2.1.0
+pandas==2.2.2
+pyparsing==3.1.4
+
+
 
 ### Clone the Repository
 
