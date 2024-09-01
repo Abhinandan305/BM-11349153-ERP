@@ -14,6 +14,9 @@ Run this command to install all the necessary packages needed for this research
 
 pip install -r requirements.txt
 
+requirements.txt comprises of all the required packages for this research.
+
+
 ### Clone the Repository
 
 Run below commands in terminal to clone the repository
