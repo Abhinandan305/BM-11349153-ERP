@@ -2,7 +2,13 @@
 
 ## Description
 
-This project performs sentiment analysis on customer reviews on Airbnb platform using various natural language processing (NLP) techniques and then extract the key aspects mentioned in reviews. The primary tools used include Python libraries such as NLTK, VADER, and scikit-learn.
+This project performs sentiment analysis on customer reviews on Airbnb platform using various natural language processing (NLP) techniques to interpret the shifts in sentiments and then extract the key aspects mentioned in reviews and analyzes their priority. The primary tools used include Python libraries such as NLTK, VADER, and scikit-learn.
+
+Research questions addressed: -
+
+Sentiment Sequence Patterns (RQ1): Is there a discernible pattern in the way reviewers express their emotions over the course of their reviews? For instance, do reviews typically start with positive comments and then shift to negative ones, or is there a different common sequence?
+
+Aspect Prioritization (RQ2): Can the sequence analysis of review comments reveal the priority or importance of various aspects of Airbnb listings (e.g., cleanliness, location, host interaction) as perceived by customers?
 
 ## Code & Data
 
@@ -15,19 +21,6 @@ Run this command to install all the necessary packages needed for this research
 pip install -r requirements.txt
 
 requirements.txt comprises of all the required packages for this research.
-
-scikit-learn==1.5.1
-scipy==1.14.1
-seaborn==0.13.2
-Unidecode==1.3.8
-vaderSentiment==3.3.2
-wordcloud==1.9.3
-langdetect==1.0.9
-matplotlib==3.9.2
-nltk==3.9.1
-numpy==2.1.0
-pandas==2.2.2
-pyparsing==3.1.4
 
 
 
