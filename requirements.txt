@@ -1,0 +1,19 @@
+Based on the python (version 3.11.5) code used for this research and for meeting the objectives, the below mentioned packages needs to be installed in the system.
+
+pandas==2.0.3
+nltk==3.8.1
+langdetect==1.0.9
+Unidecode==1.2.0
+vaderSentiment==3.3.2
+matplotlib==3.7.2
+seaborn==0.12.2
+numpy==1.24.3
+wordcloud==1.9.3
+
+However, there are certain libraries which do not need to be installed separately, since they are a part of python's standard library. Those are namely re, string, itertools and collections.
+
+Syntax:-
+
+Run the below command on terminal or Jupyter notebook with individual package names.
+
+! pip install <package name>
