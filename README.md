@@ -12,6 +12,8 @@ Aspect Prioritization (RQ2): Can the sequence analysis of review comments reveal
 
 ## Code & Data
 
+Data has been downloaded from insideAirbnb specifically for Greater Manchester which has then been anonymized before use.
+
 Refer to additional materials for more information on this.
 
 ## Installation
